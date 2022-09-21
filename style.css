@@ -1,0 +1,30 @@
+body {
+    background-color: rgb(209, 223, 223);
+}
+
+
+#mainheading {
+display: block;
+justify-content: center;
+padding-bottom: 40px;
+}
+
+#subheading {
+    background-color: bisque;
+    height: 300px;
+}
+
+
+#checkbox {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+button:hover {
+    background-color: greenyellow;
+  }
+
+
+  :focus {
+    outline: 3px solid red;   
+}
