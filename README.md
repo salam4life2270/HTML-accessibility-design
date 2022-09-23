@@ -9,7 +9,7 @@ Focus:
 For the keyboard navigation, I used a red highlight that moves as you tab through the page.
 
 Interactivity:
-Imused the mouse over style to provide distinct color fornthe button elemrnt such that the color changes to greenyellow when hovered.
+I used the mouse over style to provide distinct color for the button element such that the color changes to greenyellow when hovered.
 I ensure the field and the checkbox have a descriptive label adjacent to them
 I grouped content into mainheading and subheading using different text sizes so it is easier to scan through
 
@@ -19,4 +19,4 @@ I included an alt for the image using the text"Picture of a woman coding" as req
 ARIA
 I added a role attribute to my checkbox div element, then on my accessibility tree, Role:checkbox and Checked:false are displayed.
 To change the false to true, I added an aria-check="true" attribute.
-Now the screen reader diplays Checked,Checkbox.
+Now the screen reader displays Checked,Checkbox.
